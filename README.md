@@ -11,7 +11,7 @@ This icon set combines the sleek blue folders of yeyushengfan258's [Win11](https
 
 ### Alternative Method
 
-Run this command:
+Run this command to download everything from this repository:
 ```
 git clone https://github.com/Purgenta889/KaLeven-KDE-Icons.git
 ```
