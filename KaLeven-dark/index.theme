@@ -1,7 +1,7 @@
 [Icon Theme]
-Name=KaLeven Dark
-Comment=Refresh of Breeze Icons With Win11 Icons
-Inherits=breeze,gnome,hicolor
+Name=KaLeven Dark Testing
+Comment=Testing Version For KaLeven Dark
+Inherits=breeze-dark,breeze,gnome,hicolor
 
 Example=x-directory-normal
 
